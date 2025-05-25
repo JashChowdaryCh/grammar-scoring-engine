@@ -53,7 +53,7 @@ Given audio samples of spoken English, the system should:
 | Pearson Correlation | 0.72 (example) |
 | RMSE              | 0.48 (example)  |
 
-> *(Update with actual results once evaluated)*
+
 
 ---
 
@@ -90,7 +90,7 @@ Basic model evaluation and interpretability included via:
 
 ## 👨‍💻 Author
 
-- **Your Name**
+- **Jaswanth Chilakalapudi**
 - For: SHL Research Internship Assignment
 
 ---
